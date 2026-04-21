@@ -323,7 +323,7 @@
 #EXTINF:-1 group-title="Crime" tvg-id="Murder in Monaco - Il caso Edmond Safra" tvg-logo="https://image.tmdb.org/t/p/original/hW93OYJnnHwGaGa4S2mNxlEhgsF.jpg",Murder in Monaco - Il caso Edmond Safra (2025)
 [[SERVER_URL]]/play.php?movieId=1584619
 
-#EXTINF:-1 group-title="Fantascienza" tvg-id="Avatar - Fuoco e cenere" tvg-logo="https://image.tmdb.org/t/p/original/pAXf6FyDUzZhAjkEhc02fMXWVvz.jpg",Avatar - Fuoco e cenere (2025)
+#EXTINF:-1 group-title="Fantascienza" tvg-id="Avatar: Fuoco e cenere" tvg-logo="https://image.tmdb.org/t/p/original/pAXf6FyDUzZhAjkEhc02fMXWVvz.jpg",Avatar: Fuoco e cenere (2025)
 [[SERVER_URL]]/play.php?movieId=83533
 
 #EXTINF:-1 group-title="Romance" tvg-id="10Dance" tvg-logo="https://image.tmdb.org/t/p/original/iQOIOz8BZ2QLMyFJ7Leo9izSyti.jpg",10Dance (2025)
@@ -22892,7 +22892,7 @@
 #EXTINF:-1 group-title="Thriller" tvg-id="RazzaBastarda" tvg-logo="https://image.tmdb.org/t/p/original/zsLUmTWe1sdRv3w46anMEEmilQa.jpg",RazzaBastarda (2013)
 [[SERVER_URL]]/play.php?movieId=186984
 
-#EXTINF:-1 group-title="Azione" tvg-id="Iron Man 3" tvg-logo="https://image.tmdb.org/t/p/original/zJ1ET3yE9SIkiZLTY6r9BjCvt1i.jpg",Iron Man 3 (2013)
+#EXTINF:-1 group-title="Azione" tvg-id="Iron Man 3" tvg-logo="https://image.tmdb.org/t/p/original/mspHeC51WeIVLV2b49OqZYvLvjA.jpg",Iron Man 3 (2013)
 [[SERVER_URL]]/play.php?movieId=68721
 
 #EXTINF:-1 group-title="Commedia" tvg-id="Pain & Gain - Muscoli e denaro" tvg-logo="https://image.tmdb.org/t/p/original/gWkhKFF5NGu2bB3pR1AI7eRjARU.jpg",Pain & Gain - Muscoli e denaro (2013)
@@ -29372,9 +29372,6 @@
 #EXTINF:-1 group-title="Thriller" tvg-id="Unico testimone" tvg-logo="https://image.tmdb.org/t/p/original/dZYwg4mQXKSIHiCrUh4hZR2Aup5.jpg",Unico testimone (2001)
 [[SERVER_URL]]/play.php?movieId=11456
 
-#EXTINF:-1 group-title="Horror" tvg-id="I 13 spettri" tvg-logo="https://image.tmdb.org/t/p/original/mlFxKnjEBnLUbXDHEIKVNwG6SYO.jpg",I 13 spettri (2001)
-[[SERVER_URL]]/play.php?movieId=9378
-
 #EXTINF:-1 group-title="Commedia" tvg-id="Santa Maradona" tvg-logo="https://image.tmdb.org/t/p/original/fYuwnWK4TN1EVB8RiGbNps5cyBr.jpg",Santa Maradona (2001)
 [[SERVER_URL]]/play.php?movieId=56899
 
@@ -29383,6 +29380,9 @@
 
 #EXTINF:-1 group-title="Fantascienza" tvg-id="K-PAX - Da un altro mondo" tvg-logo="https://image.tmdb.org/t/p/original/b7q6RRErKRWAggI8lqE6QnFwilr.jpg",K-PAX - Da un altro mondo (2001)
 [[SERVER_URL]]/play.php?movieId=167
+
+#EXTINF:-1 group-title="Horror" tvg-id="I 13 spettri" tvg-logo="https://image.tmdb.org/t/p/original/mlFxKnjEBnLUbXDHEIKVNwG6SYO.jpg",I 13 spettri (2001)
+[[SERVER_URL]]/play.php?movieId=9378
 
 #EXTINF:-1 group-title="Dramma" tvg-id="I ragazzi della mia vita" tvg-logo="https://image.tmdb.org/t/p/original/693wcgvheKQ6AWxajRN9lFNcwmc.jpg",I ragazzi della mia vita (2001)
 [[SERVER_URL]]/play.php?movieId=11091
@@ -35339,7 +35339,7 @@
 #EXTINF:-1 group-title="Fantasy" tvg-id="La Gnomo Mobile" tvg-logo="https://image.tmdb.org/t/p/original/jEU8VZUuWZGAw27CMK0iQyPI9g1.jpg",La Gnomo Mobile (1967)
 [[SERVER_URL]]/play.php?movieId=24816
 
-#EXTINF:-1 group-title="Azione" tvg-id="Quella sporca dozzina" tvg-logo="https://image.tmdb.org/t/p/original/iE0hojR1ZNqyhMii3jLxD9Ylx9N.jpg",Quella sporca dozzina (1967)
+#EXTINF:-1 group-title="Azione" tvg-id="Quella sporca dozzina" tvg-logo="https://image.tmdb.org/t/p/original/o5H2BkQrlen31lSk6cKaOtH78SB.jpg",Quella sporca dozzina (1967)
 [[SERVER_URL]]/play.php?movieId=1654
 
 #EXTINF:-1 group-title="Azione" tvg-id="Agente 007 - Si vive solo due volte" tvg-logo="https://image.tmdb.org/t/p/original/gA6z0N05IC92ylvYr9KppgWAG8L.jpg",Agente 007 - Si vive solo due volte (1967)
