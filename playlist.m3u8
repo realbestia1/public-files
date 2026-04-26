@@ -341,7 +341,7 @@
 #EXTINF:-1 group-title="Romance" tvg-id="10Dance" tvg-logo="https://image.tmdb.org/t/p/original/iQOIOz8BZ2QLMyFJ7Leo9izSyti.jpg",10Dance (2025)
 [[SERVER_URL]]/play.php?movieId=1400032
 
-#EXTINF:-1 group-title="Animazione" tvg-id="SpongeBob - Un’avventura da pirati" tvg-logo="https://image.tmdb.org/t/p/original/9p9hIUmyC0jitTqWijiH6MzTPCc.jpg",SpongeBob - Un’avventura da pirati (2025)
+#EXTINF:-1 group-title="Avventura" tvg-id="SpongeBob - Un’avventura da pirati" tvg-logo="https://image.tmdb.org/t/p/original/9p9hIUmyC0jitTqWijiH6MzTPCc.jpg",SpongeBob - Un’avventura da pirati (2025)
 [[SERVER_URL]]/play.php?movieId=991494
 
 #EXTINF:-1 group-title="Dramma" tvg-id="Misfits" tvg-logo="https://image.tmdb.org/t/p/original/gV3tP0M2hR3gOfmaGsJydGzw29t.jpg",Misfits (2025)
@@ -458,7 +458,7 @@
 #EXTINF:-1 group-title="Romance" tvg-id="Eternity" tvg-logo="https://image.tmdb.org/t/p/original/yz01yDGw9STzqTE8kSmRMbOiLo7.jpg",Eternity (2025)
 [[SERVER_URL]]/play.php?movieId=1259102
 
-#EXTINF:-1 group-title="Animazione" tvg-id="Zootropolis 2" tvg-logo="https://image.tmdb.org/t/p/original/lVesXbaSnCh0e27punAv4ZKWkxk.jpg",Zootropolis 2 (2025)
+#EXTINF:-1 group-title="Avventura" tvg-id="Zootropolis 2" tvg-logo="https://image.tmdb.org/t/p/original/lVesXbaSnCh0e27punAv4ZKWkxk.jpg",Zootropolis 2 (2025)
 [[SERVER_URL]]/play.php?movieId=1084242
 
 #EXTINF:-1 group-title="Thriller" tvg-id="Wake Up Dead Man - Knives Out" tvg-logo="https://image.tmdb.org/t/p/original/db8j0xU82lzWKX0SXrPY5tFrzwA.jpg",Wake Up Dead Man - Knives Out (2025)
@@ -1235,7 +1235,7 @@
 #EXTINF:-1 group-title="Dramma" tvg-id="Poveri Noi" tvg-logo="https://image.tmdb.org/t/p/original/tr26vXCL7JVNgWFVsJd2BL9j7Be.jpg",Poveri Noi (2025)
 [[SERVER_URL]]/play.php?movieId=1441215
 
-#EXTINF:-1 group-title="Animazione" tvg-id="Elio" tvg-logo="https://image.tmdb.org/t/p/original/kFxz2c6cmINliKSLoUm4r6m0B2B.jpg",Elio (2025)
+#EXTINF:-1 group-title="Avventura" tvg-id="Elio" tvg-logo="https://image.tmdb.org/t/p/original/kFxz2c6cmINliKSLoUm4r6m0B2B.jpg",Elio (2025)
 [[SERVER_URL]]/play.php?movieId=1022787
 
 #EXTINF:-1 group-title="Horror" tvg-id="28 anni dopo" tvg-logo="https://image.tmdb.org/t/p/original/brgcJ6O5gC4k5kRuAClb72v0Fjk.jpg",28 anni dopo (2025)
@@ -3389,7 +3389,7 @@
 #EXTINF:-1 group-title="Azione" tvg-id="Bandida - La numero uno" tvg-logo="https://image.tmdb.org/t/p/original/zYEZ91N6bniDeJhzClYlIhLfiFh.jpg",Bandida - La numero uno (2024)
 [[SERVER_URL]]/play.php?movieId=1186947
 
-#EXTINF:-1 group-title="Famiglia" tvg-id="Cattivissimo me 4" tvg-logo="https://image.tmdb.org/t/p/original/ebG3a9AckyaOdsYNWLmOZpIhNot.jpg",Cattivissimo me 4 (2024)
+#EXTINF:-1 group-title="Azione" tvg-id="Cattivissimo me 4" tvg-logo="https://image.tmdb.org/t/p/original/ebG3a9AckyaOdsYNWLmOZpIhNot.jpg",Cattivissimo me 4 (2024)
 [[SERVER_URL]]/play.php?movieId=519182
 
 #EXTINF:-1 group-title="Azione" tvg-id="Un piedipiatti a Beverly Hills: Axel F" tvg-logo="https://image.tmdb.org/t/p/original/rUCcqsvEJsCX0IgucHKBAlmgHgu.jpg",Un piedipiatti a Beverly Hills: Axel F (2024)
@@ -4031,7 +4031,7 @@
 #EXTINF:-1 group-title="Commedia" tvg-id="Una hipster nella Spagna rurale" tvg-logo="https://image.tmdb.org/t/p/original/78KfOGOqXvTja8lRFwgjmkprRmI.jpg",Una hipster nella Spagna rurale (2024)
 [[SERVER_URL]]/play.php?movieId=1118035
 
-#EXTINF:-1 group-title="Animazione" tvg-id="Kung Fu Panda 4" tvg-logo="https://image.tmdb.org/t/p/original/hXx9YEJzRhronB6jtfpzVh19WhY.jpg",Kung Fu Panda 4 (2024)
+#EXTINF:-1 group-title="Azione" tvg-id="Kung Fu Panda 4" tvg-logo="https://image.tmdb.org/t/p/original/hXx9YEJzRhronB6jtfpzVh19WhY.jpg",Kung Fu Panda 4 (2024)
 [[SERVER_URL]]/play.php?movieId=1011985
 
 #EXTINF:-1 group-title="Fantascienza" tvg-id="Night of the Skinwalkers" tvg-logo="https://image.tmdb.org/t/p/original/uAy6dku0XpQXYM7f0P4dDe8HiSW.jpg",Night of the Skinwalkers (2024)
@@ -8468,7 +8468,7 @@
 #EXTINF:-1 group-title="Thriller" tvg-id="Decision to Leave" tvg-logo="https://image.tmdb.org/t/p/original/980Zfix859QLVEBN4QRt8m5tZEC.jpg",Decision to Leave (2022)
 [[SERVER_URL]]/play.php?movieId=705996
 
-#EXTINF:-1 group-title="Famiglia" tvg-id="Minions 2 - Come Gru diventa cattivissimo" tvg-logo="https://image.tmdb.org/t/p/original/bYf5gKNuIJJZNbPXEPGfZvgC1vl.jpg",Minions 2 - Come Gru diventa cattivissimo (2022)
+#EXTINF:-1 group-title="Azione" tvg-id="Minions 2 - Come Gru diventa cattivissimo" tvg-logo="https://image.tmdb.org/t/p/original/bYf5gKNuIJJZNbPXEPGfZvgC1vl.jpg",Minions 2 - Come Gru diventa cattivissimo (2022)
 [[SERVER_URL]]/play.php?movieId=438148
 
 #EXTINF:-1 group-title="Commedia" tvg-id="Cristela Alonzo: Middle Classy" tvg-logo="https://image.tmdb.org/t/p/original/nkutLvlAYWGwd8OJzxDDwEc4LmM.jpg",Cristela Alonzo: Middle Classy (2022)
@@ -9116,7 +9116,7 @@
 #EXTINF:-1 group-title="Famiglia" tvg-id="Agente speciale Ruby" tvg-logo="https://image.tmdb.org/t/p/original/rjQ3p6Ut6PuQgrxdkMk3NK2uuSI.jpg",Agente speciale Ruby (2022)
 [[SERVER_URL]]/play.php?movieId=921655
 
-#EXTINF:-1 group-title="Famiglia" tvg-id="Troppo cattivi" tvg-logo="https://image.tmdb.org/t/p/original/3eZ2QQWbhH13jk3EL2NAC2xb2ww.jpg",Troppo cattivi (2022)
+#EXTINF:-1 group-title="Azione" tvg-id="Troppo cattivi" tvg-logo="https://image.tmdb.org/t/p/original/3eZ2QQWbhH13jk3EL2NAC2xb2ww.jpg",Troppo cattivi (2022)
 [[SERVER_URL]]/play.php?movieId=629542
 
 #EXTINF:-1 group-title="Horror" tvg-id="Speak No Evil" tvg-logo="https://image.tmdb.org/t/p/original/9xljnKK2jEqjEviWxftvKHFG4jX.jpg",Speak No Evil (2022)
@@ -16031,7 +16031,7 @@
 #EXTINF:-1 group-title="Thriller" tvg-id="12 Feet Deep" tvg-logo="https://image.tmdb.org/t/p/original/3B4MLYYr5WTjQiJMbA8fCFF8M4O.jpg",12 Feet Deep (2018)
 [[SERVER_URL]]/play.php?movieId=459928
 
-#EXTINF:-1 group-title="Famiglia" tvg-id="Il Grinch" tvg-logo="https://image.tmdb.org/t/p/original/h0UVVMiSMbHS10kghelPYpQFKGj.jpg",Il Grinch (2018)
+#EXTINF:-1 group-title="Animazione" tvg-id="Il Grinch" tvg-logo="https://image.tmdb.org/t/p/original/h0UVVMiSMbHS10kghelPYpQFKGj.jpg",Il Grinch (2018)
 [[SERVER_URL]]/play.php?movieId=360920
 
 #EXTINF:-1 group-title="Dramma" tvg-id="Kursk" tvg-logo="https://image.tmdb.org/t/p/original/2wUC8kaQP0OtTeRGtcBUdJuh5F3.jpg",Kursk (2018)
@@ -16451,7 +16451,7 @@
 #EXTINF:-1 group-title="Commedia" tvg-id="Bert Kreischer: Secret Time" tvg-logo="https://image.tmdb.org/t/p/original/copmXyrJzSCyODgcchPgGAjssk7.jpg",Bert Kreischer: Secret Time (2018)
 [[SERVER_URL]]/play.php?movieId=542694
 
-#EXTINF:-1 group-title="Mistero" tvg-id="Searching" tvg-logo="https://image.tmdb.org/t/p/original/6tCW40UxNHPt3hkSL5ZkTPRpf8u.jpg",Searching (2018)
+#EXTINF:-1 group-title="Dramma" tvg-id="Searching" tvg-logo="https://image.tmdb.org/t/p/original/6tCW40UxNHPt3hkSL5ZkTPRpf8u.jpg",Searching (2018)
 [[SERVER_URL]]/play.php?movieId=489999
 
 #EXTINF:-1 group-title="Fantascienza" tvg-id="A-X-L - Un'amicizia extraordinaria" tvg-logo="https://image.tmdb.org/t/p/original/kWivs25oov9TFhp0wgMlvvt4Iu0.jpg",A-X-L - Un'amicizia extraordinaria (2018)
@@ -20876,7 +20876,7 @@
 #EXTINF:-1 group-title="Storia" tvg-id="La spada della vendetta" tvg-logo="https://image.tmdb.org/t/p/original/5Spd1yuiCtWyA7kWEcM4UTqfaOM.jpg",La spada della vendetta (2015)
 [[SERVER_URL]]/play.php?movieId=313074
 
-#EXTINF:-1 group-title="Azione" tvg-id="Jurassic World" tvg-logo="https://image.tmdb.org/t/p/original/rd7Baw7ne9zFOnyD0XZvc5fkC9A.jpg",Jurassic World (2015)
+#EXTINF:-1 group-title="Avventura" tvg-id="Jurassic World" tvg-logo="https://image.tmdb.org/t/p/original/rd7Baw7ne9zFOnyD0XZvc5fkC9A.jpg",Jurassic World (2015)
 [[SERVER_URL]]/play.php?movieId=135397
 
 #EXTINF:-1 group-title="Horror" tvg-id="La casa dell’orrore" tvg-logo="https://image.tmdb.org/t/p/original/zOn9UXIafaEVhR5GkPTgC7jcAum.jpg",La casa dell’orrore (2015)
@@ -24755,7 +24755,7 @@
 #EXTINF:-1 group-title="Animazione" tvg-id="Il regno di Ga'Hoole - La leggenda dei guardiani" tvg-logo="https://image.tmdb.org/t/p/original/emXjk8FQeLDiaQnMmxnetCQ4ssS.jpg",Il regno di Ga'Hoole - La leggenda dei guardiani (2010)
 [[SERVER_URL]]/play.php?movieId=41216
 
-#EXTINF:-1 group-title="Famiglia" tvg-id="Cattivissimo me" tvg-logo="https://image.tmdb.org/t/p/original/2n7hzxUCieTetGBmJX8OZZfwYhO.jpg",Cattivissimo me (2010)
+#EXTINF:-1 group-title="Animazione" tvg-id="Cattivissimo me" tvg-logo="https://image.tmdb.org/t/p/original/2n7hzxUCieTetGBmJX8OZZfwYhO.jpg",Cattivissimo me (2010)
 [[SERVER_URL]]/play.php?movieId=20352
 
 #EXTINF:-1 group-title="Fantascienza" tvg-id="Predators" tvg-logo="https://image.tmdb.org/t/p/original/losIPTvP0Zcd2faGMEZFNX0S2v4.jpg",Predators (2010)
@@ -26165,7 +26165,7 @@
 #EXTINF:-1 group-title="Commedia" tvg-id="Zohan - Tutte le donne vengono al pettine" tvg-logo="https://image.tmdb.org/t/p/original/1RUVWWcrJ0fiqJwFifa2G06a6wu.jpg",Zohan - Tutte le donne vengono al pettine (2008)
 [[SERVER_URL]]/play.php?movieId=10661
 
-#EXTINF:-1 group-title="Animazione" tvg-id="Kung Fu Panda" tvg-logo="https://image.tmdb.org/t/p/original/fWbCM5Ka8nre7hALmXFANXvzBHf.jpg",Kung Fu Panda (2008)
+#EXTINF:-1 group-title="Azione" tvg-id="Kung Fu Panda" tvg-logo="https://image.tmdb.org/t/p/original/fWbCM5Ka8nre7hALmXFANXvzBHf.jpg",Kung Fu Panda (2008)
 [[SERVER_URL]]/play.php?movieId=9502
 
 #EXTINF:-1 group-title="Commedia" tvg-id="News Movie" tvg-logo="https://image.tmdb.org/t/p/original/oM0zTbSdTpzgeYHfpTFbuUvg7RU.jpg",News Movie (2008)
@@ -27857,7 +27857,7 @@
 #EXTINF:-1 group-title="Dramma" tvg-id="L'altra sporca ultima meta" tvg-logo="https://image.tmdb.org/t/p/original/zE9SIzJ1iTbKjMtbymfjjEFieui.jpg",L'altra sporca ultima meta (2005)
 [[SERVER_URL]]/play.php?movieId=9291
 
-#EXTINF:-1 group-title="Animazione" tvg-id="Madagascar" tvg-logo="https://image.tmdb.org/t/p/original/cP1ckJiaWjelKpmQbmNmXATvECR.jpg",Madagascar (2005)
+#EXTINF:-1 group-title="Avventura" tvg-id="Madagascar" tvg-logo="https://image.tmdb.org/t/p/original/cP1ckJiaWjelKpmQbmNmXATvECR.jpg",Madagascar (2005)
 [[SERVER_URL]]/play.php?movieId=953
 
 #EXTINF:-1 group-title="Avventura" tvg-id="Star Wars: Episodio III - La vendetta dei Sith" tvg-logo="https://image.tmdb.org/t/p/original/jM5jU9JzxnyE8CXqiOpc2ZPIbEd.jpg",Star Wars: Episodio III - La vendetta dei Sith (2005)
@@ -28049,7 +28049,7 @@
 #EXTINF:-1 group-title="Guerra" tvg-id="Alexander" tvg-logo="https://image.tmdb.org/t/p/original/liFmkALos2VY6UiPyEuSqjGIM2y.jpg",Alexander (2004)
 [[SERVER_URL]]/play.php?movieId=1966
 
-#EXTINF:-1 group-title="Famiglia" tvg-id="SpongeBob - Il film" tvg-logo="https://image.tmdb.org/t/p/original/d4OEgVm2PEI63n83U58LerLUF07.jpg",SpongeBob - Il film (2004)
+#EXTINF:-1 group-title="Avventura" tvg-id="SpongeBob - Il film" tvg-logo="https://image.tmdb.org/t/p/original/d4OEgVm2PEI63n83U58LerLUF07.jpg",SpongeBob - Il film (2004)
 [[SERVER_URL]]/play.php?movieId=11836
 
 #EXTINF:-1 group-title="Avventura" tvg-id="Il mistero dei templari" tvg-logo="https://image.tmdb.org/t/p/original/oXl50kzOSkPFmcK7BnVO8lWSP3V.jpg",Il mistero dei templari (2004)
@@ -28064,7 +28064,7 @@
 #EXTINF:-1 group-title="Dramma" tvg-id="Un amore sotto l'albero" tvg-logo="https://image.tmdb.org/t/p/original/oYFOSavsURdNzUp68bEiS4Q0Zkj.jpg",Un amore sotto l'albero (2004)
 [[SERVER_URL]]/play.php?movieId=41171
 
-#EXTINF:-1 group-title="Animazione" tvg-id="Polar Express" tvg-logo="https://image.tmdb.org/t/p/original/pjbpInddfbe0TvcJvpHmRQSucdV.jpg",Polar Express (2004)
+#EXTINF:-1 group-title="Avventura" tvg-id="Polar Express" tvg-logo="https://image.tmdb.org/t/p/original/pjbpInddfbe0TvcJvpHmRQSucdV.jpg",Polar Express (2004)
 [[SERVER_URL]]/play.php?movieId=5255
 
 #EXTINF:-1 group-title="Commedia" tvg-id="Che pasticcio, Bridget Jones!" tvg-logo="https://image.tmdb.org/t/p/original/a8YU0fazzBF6XuPGRApMnprPpr0.jpg",Che pasticcio, Bridget Jones! (2004)
@@ -28085,7 +28085,7 @@
 #EXTINF:-1 group-title="Dramma" tvg-id="Ray" tvg-logo="https://image.tmdb.org/t/p/original/y3uZT1FRXbQ0bnjTOqFrdBUCYb2.jpg",Ray (2004)
 [[SERVER_URL]]/play.php?movieId=1677
 
-#EXTINF:-1 group-title="Famiglia" tvg-id="Il re leone 3 - Hakuna Matata" tvg-logo="https://image.tmdb.org/t/p/original/jGna6hRb6kQBh4iSjvOHIU9F9BV.jpg",Il re leone 3 - Hakuna Matata (2004)
+#EXTINF:-1 group-title="Avventura" tvg-id="Il re leone 3 - Hakuna Matata" tvg-logo="https://image.tmdb.org/t/p/original/jGna6hRb6kQBh4iSjvOHIU9F9BV.jpg",Il re leone 3 - Hakuna Matata (2004)
 [[SERVER_URL]]/play.php?movieId=11430
 
 #EXTINF:-1 group-title="Dramma" tvg-id="Una lunga domenica di passioni" tvg-logo="https://image.tmdb.org/t/p/original/yyNAhA6ueaVUhW1jkgrDASpRqGX.jpg",Una lunga domenica di passioni (2004)
@@ -29750,7 +29750,7 @@
 #EXTINF:-1 group-title="Dramma" tvg-id="Battle Royale" tvg-logo="https://image.tmdb.org/t/p/original/2XG5viFMnR8PamFUoRQH7lc1Pko.jpg",Battle Royale (2000)
 [[SERVER_URL]]/play.php?movieId=3176
 
-#EXTINF:-1 group-title="Commedia" tvg-id="Fatti, strafatti e strafighe" tvg-logo="https://image.tmdb.org/t/p/original/rBEFEeXDKSIXdIVDGJQdhUj3ziT.jpg",Fatti, strafatti e strafighe (2000)
+#EXTINF:-1 group-title="Avventura" tvg-id="Fatti, strafatti e strafighe" tvg-logo="https://image.tmdb.org/t/p/original/rBEFEeXDKSIXdIVDGJQdhUj3ziT.jpg",Fatti, strafatti e strafighe (2000)
 [[SERVER_URL]]/play.php?movieId=8859
 
 #EXTINF:-1 group-title="Avventura" tvg-id="Le follie dell'imperatore" tvg-logo="https://image.tmdb.org/t/p/original/r7qMa2WuiNquuq3Cv3CLLLyusnN.jpg",Le follie dell'imperatore (2000)
@@ -31205,7 +31205,7 @@
 #EXTINF:-1 group-title="Dramma" tvg-id="Phenomenon" tvg-logo="https://image.tmdb.org/t/p/original/jFtT3Uqmzche0gaT31n1sNuWI1k.jpg",Phenomenon (1996)
 [[SERVER_URL]]/play.php?movieId=9294
 
-#EXTINF:-1 group-title="Fantasy" tvg-id="Il professore matto" tvg-logo="https://image.tmdb.org/t/p/original/2ljD2LARd92TjVW0fEa7d1SriK0.jpg",Il professore matto (1996)
+#EXTINF:-1 group-title="Fantasy" tvg-id="Il professore matto" tvg-logo="https://image.tmdb.org/t/p/original/ynw5yGuJVGdc2kDfUgJcQolflkm.jpg",Il professore matto (1996)
 [[SERVER_URL]]/play.php?movieId=9327
 
 #EXTINF:-1 group-title="Commedia" tvg-id="Striptease" tvg-logo="https://image.tmdb.org/t/p/original/4zMy6R7acotCmGoDk4sjzRtDwKn.jpg",Striptease (1996)
