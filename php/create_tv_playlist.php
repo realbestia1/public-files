@@ -12,7 +12,7 @@ if ($GLOBALS['DEBUG'] !== true) {
 
 //Set globals
 $apiKey = getenv('SECRET_API_KEY');
-$playVodUrl = "[[SERVER_URL]]/play.php";
+$playVodUrl = "https://vixsrc.to/tv/";
 $totalPages = 500;
 $minYear = 1; // Skip older titles
 $language = 'it-IT';
@@ -70,7 +70,7 @@ function fetchSeries($playVodUrl, $language, $apiKey, $totalPages)
             $title = $matches[1] ?? $series['name'];
             $year = $matches[2] ?? '';
 
-            $outputContent .= "#EXTINF:-1 group-title=\"{$series['genre']}\" tvg-id=\"$title\" tvg-logo=\"{$series['cover']}\",{$series['name']}\n$playVodUrl?movieId={$series['series_id']}\n\n";
+            $outputContent .= "#EXTINF:-1 group-title=\"{$series['genre']}\" tvg-id=\"$title\" tvg-logo=\"{$series['cover']}\",{$series['name']}\n$playVodUrl{$series['series_id']}\n\n";
         }
     }
 
