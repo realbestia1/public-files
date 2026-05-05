@@ -15,7 +15,7 @@ if ($GLOBALS['DEBUG'] !== true) {
 
 //Set globals
 $apiKey = getenv('SECRET_API_KEY');
-$playVodUrl = "[[SERVER_URL]]/play.php";
+$playVodUrl = "https://vixsrc.to/movie/";
 $totalPages = 500; // Added more pages due to strict filters.
 $minYear = 1; // Skip older titles
 $minRuntime = 0; // In Minutes. Works with /discover only.
@@ -151,7 +151,7 @@ function processMovieData($movie, $playVodUrl)
         "category_id" => $categoryId,
         "container_extension" => "mp4",
         "custom_sid" => null,
-        "direct_source" => $playVodUrl . '?movieId=' . $id,
+        "direct_source" => $playVodUrl . $id,
         "plot" => $movie['overview'],
         "backdrop_path" => 'https://image.tmdb.org/t/p/original' . $movie['backdrop_path'],
         "group" => $genreName,
